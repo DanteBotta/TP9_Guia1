@@ -21,9 +21,4 @@ public class CalculosPersonalizados : MonoBehaviour
         Debug.Log("El resultado de la suma es " + resultadosuma +", de la resta " + resultadoresta + ", de la multiplicación " + resultadomultiplicacion + " y de la division es " + resultadodivision + ". Entre el " + numero1 + " y " + numero2);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
